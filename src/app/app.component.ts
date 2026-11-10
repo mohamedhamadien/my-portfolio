@@ -46,9 +46,7 @@ type Project = {
           <h1>Mohamed <span class="gradient-text">Hamdeen Zaki</span></h1>
           <h2>Full-Stack .NET Developer</h2>
           <p class="hero-description">
-            Full-stack .NET developer with 3+ years of experience delivering production web applications with
-            <strong>ASP.NET Core, Angular, and SQL Server</strong>. Strong in RESTful API design, Clean Architecture,
-            CQRS, and SQL performance tuning, with hands-on experience in containerized microservices.
+            Full Stack .NET Developer with 3+ years of experience developing and maintaining production enterprise web applications using <strong>C#, ASP.NET Core, Angular,</strong> and <strong>SQL Server</strong>. Experienced in RESTful APIs, Clean Architecture, CQRS, SQL optimization, and containerized microservices.
           </p>
           <div class="hero-actions">
             <a class="button button-primary" href="#projects">Explore my work <span>↗</span></a>
@@ -56,9 +54,9 @@ type Project = {
           </div>
           <div class="hero-meta">
             <a href="https://github.com/mohamedhamadien" target="_blank" rel="noreferrer" aria-label="GitHub" class="social-icon">GH</a>
-            <a href="https://www.linkedin.com/in/mohamed-hamdeen" target="_blank" rel="noreferrer" aria-label="LinkedIn" class="social-icon">in</a>
+            <a href="https://www.linkedin.com/in/mohamed-hamdeen/" target="_blank" rel="noreferrer" aria-label="LinkedIn" class="social-icon">in</a>
             <a href="mailto:mohamedhmdeen@gmail.com" aria-label="Email" class="social-icon">✉</a>
-            <span class="location"><span class="pin">⌖</span> Cairo, Egypt <i></i> +20 112 203 5202</span>
+            <span class="location"><span class="pin">⌖</span> Cairo, Egypt <i></i> Open to Egypt, Saudi Arabia & remote</span>
           </div>
         </div>
         <div class="hero-art" aria-label="Decorative developer illustration">
@@ -77,16 +75,16 @@ type Project = {
         <div class="section-heading">
           <p class="eyebrow">01 — ABOUT ME</p>
           <h2>Engineering with <span class="gradient-text">purpose.</span></h2>
-          <p class="section-intro">Full-stack .NET developer building production applications end to end—from requirements and database design to deployment.</p>
+          <p class="section-intro">A practical engineer focused on dependable software, thoughtful architecture, and continuous improvement.</p>
         </div>
         <div class="about-grid">
           <div class="about-copy">
-            <p>I'm a Full-stack .NET Developer with 3+ years of experience delivering production web applications with ASP.NET Core, Angular, and SQL Server.</p>
-            <p>I design RESTful APIs, integrate Angular front ends, tune SQL performance, and apply Clean Architecture, CQRS, and SOLID principles to build scalable, testable systems.</p>
+            <p>I'm a Full Stack .NET Developer with 3+ years of experience developing and maintaining production enterprise web applications with C#, ASP.NET Core, Angular, and SQL Server.</p>
+            <p>I build RESTful APIs, optimize complex SQL queries, integrate third-party services, and deliver end-to-end features using Clean Architecture, CQRS, and modern .NET practices.</p>
             <div class="value-points">
-              <div class="value-point"><span class="value-icon">⌘</span><div><b>Enterprise systems</b><small>ASP.NET Core APIs, Angular UI, SQL Server and product features</small></div></div>
-              <div class="value-point"><span class="value-icon">◇</span><div><b>Clean architecture</b><small>Clean Architecture, CQRS, SOLID and modular design</small></div></div>
-              <div class="value-point"><span class="value-icon">↗</span><div><b>Continuous learning</b><small>Docker, Redis, RabbitMQ, Kubernetes and Minikube</small></div></div>
+              <div class="value-point"><span class="value-icon">⌘</span><div><b>Healthcare enterprise systems</b><small>Queues, multi-tenancy, integrations and reporting</small></div></div>
+              <div class="value-point"><span class="value-icon">◇</span><div><b>Performance engineering</b><small>Execution plans, query optimization and scalable APIs</small></div></div>
+              <div class="value-point"><span class="value-icon">↗</span><div><b>Cloud-native learning</b><small>Docker, Redis, RabbitMQ and Kubernetes</small></div></div>
             </div>
           </div>
           <div class="experience-card" id="experience">
@@ -95,22 +93,22 @@ type Project = {
               <div class="timeline-item">
                 <span class="timeline-dot"></span><time>Jan 2025 — Present</time>
                 <h3>Full-Stack .NET Developer</h3><p class="company">Health Insights Group · Cairo, Egypt</p>
-                <ul><li>Build, test, and maintain full-stack applications across API and UI layers.</li><li>Design RESTful APIs and integrate them with Angular front ends.</li><li>Apply SOLID, Clean Architecture, and CQRS for modular, testable code.</li><li>Improve SQL Server performance with stored procedures, indexing, and query optimization.</li><li>Implement validation, mapping, and background processing with FluentValidation, AutoMapper, and Hangfire.</li></ul>
+                <ul><li>Engineer enterprise healthcare applications across API and UI layers with C#, ASP.NET Core, Angular, JavaScript, jQuery and SQL Server.</li><li>Optimize high-volume SQL queries using execution plans and CROSS APPLY, reducing execution time from 60 seconds to 10 seconds.</li><li>Integrate Webex guest-to-guest meetings and Power BI dashboards into the healthcare system.</li><li>Enhance queuing for application- and database-level multi-tenancy across multiple hospitals.</li></ul>
               </div>
               <div class="timeline-item">
                 <span class="timeline-dot"></span><time>Nov 2023 — Dec 2024</time>
-                <h3>.NET Developer</h3><p class="company">VetICare · Remote</p>
-                <ul><li>Developed and maintained .NET Core applications for veterinary clinic operations.</li><li>Built and optimized data access layers with Entity Framework and SQL Server.</li><li>Contributed to architecture decisions and wrote clean, scalable C# code.</li></ul>
+                <h3>.NET Developer</h3><p class="company">Quad insight · Remote</p>
+                <ul><li>Engineered .NET Core applications for veterinary clinic operations.</li><li>Built optimized Entity Framework and SQL Server data access layers.</li><li>Collaborated on technical design in a monolithic architecture environment.</li></ul>
               </div>
               <div class="timeline-item">
                 <span class="timeline-dot"></span><time>Apr 2023 — Nov 2023</time>
                 <h3>Freelance .NET Developer (Backend / API)</h3><p class="company">Self-Employed · Remote</p>
-                <ul><li>Delivered ASP.NET Core REST APIs for independent clients.</li><li>Modeled relational databases and implemented EF Core data access.</li><li>Secured endpoints with JWT authentication and input validation.</li></ul>
+                <ul><li>Delivered RESTful APIs with ASP.NET Core and secure JWT authentication.</li><li>Modeled relational databases with EF Core and Oracle.</li><li>Owned requirements, development, testing, deployment and client communication.</li></ul>
               </div>
               <div class="timeline-item">
-                <span class="timeline-dot"></span><time>Education</time>
-                <h3>Intensive Code Camp — .NET Full-Stack Development</h3><p class="company">Information Technology Institute (ITI) · Dec 2022 — Apr 2023</p>
-                <h3>Bachelor of Commerce</h3><p class="company">Beni Suef University · Sep 2016 — Aug 2020</p>
+                <span class="timeline-dot"></span><time>Dec 2022 — Apr 2023</time>
+                <h3>Intensive Code Camp — .NET Full-Stack Development</h3><p class="company">Information Technology Institute (ITI)</p>
+                <p class="timeline-note">Bachelor of Commerce · Beni Suef University · Sep 2016 — Aug 2020</p>
               </div>
             </div>
           </div>
@@ -151,7 +149,7 @@ type Project = {
             </div>
           </article>
         </div>
-        <p class="project-disclaimer">Selected projects from my CV. Add only screenshots, code, or implementation details you are authorized to share.</p>
+        <p class="project-disclaimer">Portfolio case studies are illustrative summaries. Remove confidential details and add only screenshots or code you are authorized to share.</p>
       </section>
 
       <section class="skills section-wrap section-pad" id="skills">
@@ -175,9 +173,9 @@ type Project = {
           <div class="contact-copy">
             <p class="eyebrow">04 — LET'S CONNECT</p>
             <h2>Let's build something <span class="gradient-text">useful.</span></h2>
-            <p>I'm seeking a mid-level full-stack role building scalable, well-architected systems with ASP.NET Core, Angular, and SQL Server.</p>
-            <a class="contact-line" href="mailto:mohamedhmdeen@gmail.com"><span class="contact-icon">✉</span><span><small>EMAIL ME</small><b>mohamedhmdeen&#64;gmail.com</b></span><span class="contact-arrow">↗</span></a>
-            <a class="contact-line" href="https://www.linkedin.com/in/mohamed-hamdeen" target="_blank" rel="noreferrer"><span class="contact-icon">in</span><span><small>CONNECT ON LINKEDIN</small><b>linkedin.com/in/mohamed-hamdeen</b></span><span class="contact-arrow">↗</span></a>
+            <p>I'm open to opportunities in Egypt, Saudi Arabia, and remote teams where I can contribute, learn, and build dependable software.</p>
+            <a class="contact-line" href="mailto:mohamedhmdeen&#64;gmail.com"><span class="contact-icon">✉</span><span><small>EMAIL ME</small><b>mohamedhmdeen&#64;gmail.com</b></span><span class="contact-arrow">↗</span></a>
+            <a class="contact-line" href="https://www.linkedin.com/in/mohamed-hamdeen/" target="_blank" rel="noreferrer"><span class="contact-icon">in</span><span><small>CONNECT ON LINKEDIN</small><b>linkedin.com/in/mohamed-hamdeen</b></span><span class="contact-arrow">↗</span></a>
             <a class="contact-line" href="https://github.com/mohamedhamadien" target="_blank" rel="noreferrer"><span class="contact-icon">GH</span><span><small>CODE & PROJECTS</small><b>github.com/mohamedhamadien</b></span><span class="contact-arrow">↗</span></a>
           </div>
           <div class="contact-form-card">
@@ -198,9 +196,9 @@ type Project = {
 
     <footer class="site-footer section-wrap">
       <a class="brand" href="#home"><span class="brand-mark">&lt;/&gt;</span><span>Mohamed <b>Hamdeen Zaki</b></span></a>
-      <p>Full-stack .NET developer. Built with intention.</p>
+      <p>Designed with intention. Built with Angular.</p>
       <a href="#home" class="back-top">BACK TO TOP ↑</a>
-      <div class="footer-bottom"><span>© {{ currentYear }} Mohamed Hamdeen Zaki</span><span>C# · ASP.NET Core · Angular · SQL Server</span><span class="footer-status"><span class="status-dot"></span> Always learning</span></div>
+      <div class="footer-bottom"><span>© {{ currentYear }} Mohamed Hamdeen Zaki</span><span>ASP.NET Core · Angular · SQL Server</span><span class="footer-status"><span class="status-dot"></span> Always learning</span></div>
     </footer>
 
     <div class="modal-backdrop" *ngIf="selectedProject" (click)="closeProject()" role="presentation">
@@ -226,60 +224,61 @@ export class AppComponent {
   projects: Project[] = [
     {
       number: '01',
-      category: 'CLOUD NATIVE',
-      title: '.NET Microservices on Kubernetes',
-      description: 'A personal project building and containerizing ASP.NET Core microservices with Redis caching, RabbitMQ messaging, SQL Server, and Kubernetes.',
-      tags: ['.NET 10', 'ASP.NET Core', 'EF Core', 'SQL Server', 'Redis', 'RabbitMQ', 'Docker', 'Kubernetes'],
-      icon: '◇',
-      className: 'visual-micro',
-      status: 'PERSONAL PROJECT',
-      details: [
-        'Built Product, Order, Inventory, and supporting services with ASP.NET Core Web API.',
-        'Used Docker multi-stage builds and Docker Compose for local environments.',
-        'Added Redis caching and asynchronous service-to-service communication with RabbitMQ.',
-        'Deployed to Minikube using Deployments, Services, Persistent Volumes, and Persistent Volume Claims.',
-      ],
-    },
-    {
-      number: '02',
-      category: 'REAL-TIME WEB',
-      title: 'Private Lessons Platform',
-      description: 'An online platform connecting students with private tutors, featuring tutor booking and real-time notifications via SignalR.',
-      tags: ['ASP.NET Web API', 'EF Core', 'LINQ', 'SignalR', 'JavaScript', 'Bootstrap'],
-      icon: '↗',
-      className: 'visual-bot',
-      status: 'ITI GRADUATION PROJECT',
-      details: [
-        'Connected students and tutors through an online lesson marketplace.',
-        'Implemented private tutor booking flows and relational data access.',
-        'Added real-time notifications with SignalR.',
-        'Built the platform with ASP.NET Web API, EF Core, LINQ, JavaScript, and Bootstrap.',
-      ],
-    },
-    {
-      number: '03',
       category: 'DESKTOP APPLICATION',
       title: 'Clinic Management System',
-      description: 'A Windows Forms desktop application for managing clinic patients, appointments, and medical records.',
+      description: 'A Windows Forms desktop application for managing clinic patients, tracking appointments, and securely handling medical records.',
       tags: ['Windows Forms', 'Entity Framework', 'LINQ'],
       icon: '＋',
       className: 'visual-health',
       status: 'PERSONAL PROJECT',
       details: [
-        'Managed patient records and appointment workflows for a clinic.',
-        'Implemented data access with Entity Framework and LINQ.',
-        'Focused on a practical desktop workflow for day-to-day clinic operations.',
+        'Patient and appointment management for clinic operations.',
+        'Secure handling of medical records and relational data.',
+        'Entity Framework and LINQ-powered data access.',
+        'A focused desktop workflow for day-to-day clinic management.',
+      ],
+    },
+    {
+      number: '02',
+      category: 'CLOUD NATIVE',
+      title: '.NET Microservices on Kubernetes',
+      description: 'A personal project architecting and containerizing .NET microservices with Redis caching, RabbitMQ messaging, SQL Server, and Kubernetes.',
+      tags: ['.NET 10', 'ASP.NET Core', 'Redis', 'RabbitMQ', 'Docker', 'Kubernetes'],
+      icon: '◇',
+      className: 'visual-micro',
+      status: 'HANDS-ON LEARNING',
+      details: [
+        'Separate Product, Order, Inventory, and Notification services.',
+        'Containerized services and local Kubernetes deployments.',
+        'Explore service-to-service communication, retries, and failure handling.',
+        'Practice configuration, secrets, health checks, and observability.',
+      ],
+    },
+    {
+      number: '03',
+      category: 'AUTOMATION',
+      title: 'Private Lessons Platform',
+      description: 'An ITI graduation project connecting students with private tutors through scheduling, booking management, and real-time SignalR notifications.',
+      tags: ['ASP.NET Web API', 'EF', 'LINQ', 'SignalR', 'JavaScript', 'Bootstrap'],
+      icon: '↗',
+      className: 'visual-bot',
+      status: 'PERSONAL PROJECT',
+      details: [
+        'Scheduled background processing and source integrations.',
+        'Job filtering around .NET, Angular, location, and work type.',
+        'Duplicate detection to reduce repeated alerts.',
+        'Telegram notifications for relevant listings.',
       ],
     },
   ];
 
   skillGroups = [
-    { index: '01', symbol: '⌘', title: 'Languages', description: 'Application and query code', items: ['C#', 'TypeScript', 'JavaScript', 'SQL'] },
-    { index: '02', symbol: '◈', title: 'Backend', description: 'APIs and application services', items: ['ASP.NET Core', 'ASP.NET MVC', 'Web API', 'EF Core', 'LINQ', 'SignalR', 'Hangfire', 'JWT'] },
-    { index: '03', symbol: '▤', title: 'Frontend', description: 'Interfaces and client apps', items: ['Angular', 'HTML5', 'CSS3', 'Bootstrap'] },
-    { index: '04', symbol: '⌁', title: 'Data', description: 'Persistence and performance', items: ['SQL Server', 'Stored procedures', 'Indexing', 'Query optimization', 'Redis'] },
-    { index: '05', symbol: '◇', title: 'Architecture', description: 'Scalable engineering practices', items: ['Clean Architecture', 'CQRS', 'SOLID', 'OOP', 'Microservices', 'Messaging'] },
-    { index: '06', symbol: '↗', title: 'DevOps & Tools', description: 'Containerization and delivery', items: ['Docker', 'Docker Compose', 'Kubernetes', 'Minikube', 'RabbitMQ', 'Git/GitHub', 'Firebase'] },
+    { index: '01', symbol: '⌘', title: 'Backend', description: 'APIs and business logic', items: ['C#', 'ASP.NET Core', 'ASP.NET MVC', 'Web API', 'EF Core', 'LINQ', 'SignalR', 'Hangfire', 'JWT', 'MediatR', 'Unit Testing'] },
+    { index: '02', symbol: '◈', title: 'Frontend', description: 'Interfaces and client apps', items: ['Angular', 'TypeScript', 'JavaScript', 'HTML5', 'CSS', 'Bootstrap', 'jQuery', 'AJAX'] },
+    { index: '03', symbol: '▤', title: 'Data', description: 'Persistence and querying', items: ['SQL Server', 'Stored procedures', 'Indexing', 'Execution plans', 'Query optimization', 'Oracle', 'Redis'] },
+    { index: '04', symbol: '⌁', title: 'Architecture', description: 'Maintainable software', items: ['Clean Architecture', 'CQRS', 'SOLID', 'OOP', 'REST APIs', 'Microservices', 'Monolithic systems', 'Messaging'] },
+    { index: '05', symbol: '◇', title: 'DevOps & Cloud', description: 'Build and delivery workflows', items: ['Azure DevOps', 'Docker', 'Docker Compose', 'Kubernetes', 'Minikube', 'Git/GitHub', 'Agile', 'Power BI'] },
+    { index: '06', symbol: '↗', title: 'Integration', description: 'Connecting systems reliably', items: ['REST APIs', 'RabbitMQ', 'Firebase', 'Webex integration', 'Power BI'] },
   ];
 
   openProject(project: Project): void {
